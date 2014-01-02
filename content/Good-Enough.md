@@ -3,7 +3,7 @@ Date: 2013-11-05
 Tags: Python, BayPiggies
 Slug: Good Enough is good enough!
 
-Last month I signed up as a volunteer videographer for one of my favorite local software communities, [BayPiggies][1] (Bay Area Python Interest Group). As a relatively new programmer, I've been looking for ways to get involved with an open-source project and shoot some video once a month seemed like something I could handle.
+Last month I signed up as a volunteer videographer for one of my favorite local software communities, [BayPiggies][1] (Bay Area Python Interest Group). As a relatively new programmer, I've been looking for ways to get involved with an open-source project. Shooting some video once a month seemed like something I could handle.
 
 The typical format of a BayPiggies meeting is: announcements, introduce speaker, listen to speaker, Q&A. The first meeting I recorded on Thursday October 24th was no different. The speaker was [Alex Martelli][2], who is an "Uber Technical Lead" at Google and [epic contributor on Stack Overflow][3]. He gave a really interesting talk about our obsession with perfection as a society and how that doesn't really work well with software development in general.
 

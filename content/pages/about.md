@@ -8,6 +8,7 @@ What do I mean by software developer in training? I've only been programming pro
 
 My language of choice is Python, and I'm trying to focus on becoming as proficient as possible with it before learning another language.
 
-When I'm not learning or working, I'm usually going on adventures with my dog Zerlina.
+When I'm not learning or working, I'm usually going on adventures with my dog [Zerlina][2].
 
-[1]: https://us.etrade.com/home "E*Trade website"  
+[1]: https://us.etrade.com/home "E*Trade website"
+[2]: /images/zerlina.jpg 
