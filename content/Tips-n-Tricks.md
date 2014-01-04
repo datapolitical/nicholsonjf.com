@@ -26,6 +26,8 @@ Then, `cd` into the local directory you want to push.
 
 `git push origin master` enter your username and password to github. The github repo should now be caught up with your local repo.
 
+[3]: http://stackoverflow.com/questions/11276364/after-creating-a-local-git-repo-how-do-i-push-it-on-github "Stack overflow question"
+[4]: https://help.github.com/articles/create-a-repo "Github create repo"
 
 ###Check if package is installed###
 Date: 2014-01-01
