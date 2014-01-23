@@ -21,7 +21,7 @@ DELETE_OUTPUT_DIRECTORY = False
 # Following items are often useful when publishing
 
 DISQUS_SITENAME = 'nicholsonjf'
-#GOOGLE_ANALYTICS = 'UA-24099413-2'
+GOOGLE_ANALYTICS = 'UA-47414644-1'
 #ADDTHIS_PROFILE = 'ra-4f274b9c7023574d'
 
 ARTICLE_URL = 'blog/{slug}'
