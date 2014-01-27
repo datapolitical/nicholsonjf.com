@@ -4,7 +4,7 @@ Tags: Python, BayPiggies, Guido, Tulip
 Slug: guido-on-tulip
 Summary: On Thursday, January 23rd at 7:30pm the creator and BDFL of Python Guido van Rossum will give a talk at LinkedIn, Mountain View about Tulip (asynchronous I/O for Python 3).
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/c7D63mqCs5Y" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/uDWjtYLmW90" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
