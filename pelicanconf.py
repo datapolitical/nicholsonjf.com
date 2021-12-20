@@ -5,7 +5,7 @@ import os
 
 AUTHOR = u'James Nicholson'
 SITENAME = u'nicholsonjf.com'
-SITEURL = 'http://localhost:8000'
+SITEURL = ''
 
 TIMEZONE = 'America/Los_Angeles'
 
@@ -43,7 +43,7 @@ DISPLAY_CATEGORIES_ON_MENU = False
 
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'nl2br']
 THEME = os.path.join(os.environ.get('HOME'),
-                     'pelican-themes/pelican-bootstrap3')
+                     'pelican-themes')
 
 BOOTSTRAP_THEME = 'readable'
 
