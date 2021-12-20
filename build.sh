@@ -1,5 +1,5 @@
 export PATH=$PATH:/opt/buildhome/.local/bin
-git clone https://github.com/getpelican/pelican-themes.git /opt/buildhome/pelican-themes
+git clone --recursive https://github.com/getpelican/pelican-themes ~/pelican-themes
 ls -l $HOME
 ls -l $HOME/pelican-themes
 pip install markdown
