@@ -43,7 +43,7 @@ DISPLAY_CATEGORIES_ON_MENU = False
 
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'nl2br']
 THEME = os.path.join(os.environ.get('HOME'),
-                     'pelican-bootstrap3')
+                     'pelican-themes/pelican-bootstrap3')
 
 BOOTSTRAP_THEME = 'readable'
 
