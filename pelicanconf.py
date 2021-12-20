@@ -43,9 +43,9 @@ DISPLAY_CATEGORIES_ON_MENU = False
 
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'nl2br']
 THEME = os.path.join(os.environ.get('HOME'),
-                     'pelican-themes')
+                     'pelican-themes/pelican-bootstrap3')
 
-BOOTSTRAP_THEME = 'readable'
+BOOTSTRAP_THEME = 'cyborg'
 
 USE_OPEN_GRAPH = True
 #OPEN_GRAPH_FB_APP_ID = '202018593182706'
